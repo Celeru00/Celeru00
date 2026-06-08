@@ -1,5 +1,5 @@
 # 💫 About Me:
-Mobile and Wed Dev Enthusiast 🕸️<br>Python Enjoyer 🐍<br>Tech Volunteer 🙌<br>Aspiring Full Stack Developer ⚡️
+Cloud Engineer 🕸️<br>Python Enjoyer 🐍<br>Tech Volunteer 🙌<br>Full Stack Developer ⚡️
 
 
 ## 🌐 Socials:
