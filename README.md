@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Francis 👋</h1>
-<h3 align="center">Backend Engineer, Infra Pod @ Healf · DevSecOps · AWS</h3>
+<h3 align="center">Backend Engineer · DevSecOps · AWS</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/francisreidarranguez"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -10,12 +10,12 @@
 
 ## 💫 About Me
 
-I'm a backend engineer on the **Infra Pod at [Healf](https://healf.com)**, a UK wellbeing commerce company. I work at the overlap of backend, cloud, and security, keeping production services that handle health data secure, observable, and cost-efficient.
+I'm a backend engineer at a UK wellbeing commerce company, working at the overlap of backend, cloud, and security, keeping production services that handle health data secure, observable, and cost-efficient.
 
 - 🔐 **DevSecOps & AppSec**: auth and access-control hardening, blocking security scans in CI, IAM and secrets hygiene
 - ☁️ **Cloud infrastructure**: multi-account AWS managed with Pulumi, GitHub Actions pipelines, and Cloudflare DNS
 - 📈 **Observability & FinOps**: Grafana and Sentry dashboards, and cost audits that cut real spend
-- 🤖 **Helix AI**: runtime infrastructure and backend auth for Healf's AI product discovery engine
+- 🤖 **AI product discovery**: runtime infrastructure and backend auth for an AI-powered search and recommendation engine
 - 🧰 **Freelance**: Cloud & DevOps consultant helping a client take ownership of agency-built software
 
 Outside work, I'm a final-year CS student at **UP Mindanao**, AWS-certified (Cloud Practitioner, AI Practitioner; Solutions Architect – Associate in progress), and Head of Communications at **[DurianPy](https://github.com/durianpy)**. 📍 Davao City, Philippines
